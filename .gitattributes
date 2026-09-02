@@ -1,0 +1,11 @@
+# Normalize line endings
+# See https://github.com/github/linguist
+# Do not edit manually
+yarn.lock linguist-generated
+*.sh text eol=lf   
+*.min.js linguist-generated
+public/** linguist-vendored
+*.ts linguist-detectable
+vendor/* linguist-vendored
+
+*.jpeg binary
