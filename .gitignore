@@ -1,0 +1,6 @@
+*.tgz
+build/
+.env
+.next/
+dist/
+coverage/
